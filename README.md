@@ -1,2 +1,2 @@
 # interpreter
-Very primitive interpreter
+Very primitive interpreter for boredom and curiosity.

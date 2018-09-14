@@ -1,2 +1,2 @@
 # interpreter
-Very primitive interpreter for boredom and curiosity.
+Very primitive scripting interpreter for boredom and curiosity.

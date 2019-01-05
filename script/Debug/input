@@ -1,0 +1,7 @@
+var first = 5
+
+var second = 2
+
+var third = 3
+
+var z = first + second + third
